@@ -3,7 +3,7 @@
 ESP32 C64 V01
 ESP32 Wroom 32D 
 Library used:
-- TFT_eSPI
+- TFT_eSPI example based on IL9481 3.5"
 - RTCLib
 - Wifi
 - Time
