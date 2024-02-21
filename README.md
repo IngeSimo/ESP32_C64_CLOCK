@@ -7,5 +7,6 @@ Library used:
 - RTCLib
 - Wifi
 - Time
+- HTU21D Temp & Humidity 
 
 Works in NTP mode if connection is available or switch to RTC mode
