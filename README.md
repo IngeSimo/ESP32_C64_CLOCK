@@ -9,4 +9,4 @@ Library used:
 - Time
 - HTU21D Temp & Humidity 
 
-Works in NTP mode if connection is available or switch to RTC mode
+Works in NTP mode if connection is available or automatically switch to RTC mode, when NTP mode is available the RTC is automatically synced.
